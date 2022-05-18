@@ -3,6 +3,7 @@ It’s such a fine line
 That keeps me searchin’ for a heart of gold
 And I’m gettin’ old
 
+<<<<<<< HEAD
 
 
 Oh you look so beautiful tonight
@@ -11,3 +12,7 @@ In the city of blinding lights
 And I miss you when you’re not around
 I’m getting ready to leave the ground
 
+=======
+And I miss you when you’re not around
+I’m getting ready to leave the ground
+>>>>>>> 74ad2fae24a789f8dc29fc48df066a2c3b55d2f4
